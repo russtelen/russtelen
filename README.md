@@ -31,7 +31,7 @@
     - ReactJS
     - Angular
     
-- ⚡ Fun fact: I take photos :camera_with_flash:. I DJ :minidisc:. I love bikes :bicyclist: 
+- ⚡ Fun fact: I take photos :camera:. I DJ :minidisc:. I love bikes :bicyclist: 
 
 
 
