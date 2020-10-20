@@ -13,11 +13,9 @@
  
 📫 You can reach me at russelltelen@gmail.com.
 
-- :computer: Web Technologies I've learned so far are:
-    - JavaScript
-    - JQuery
-    - MySQL
-    - MongoDB
+- :computer: Technologies I've learned so far are:
+    - HTML, CSS, Bootstrap, JavaScript, jQuery
+    - MySQL and MongoDB
     - Express
     - NodeJS
     - iOS With Swift
@@ -26,6 +24,7 @@
     - .NET Framework
     - ReactJS
     - Angular
+    - Amazon Web Services and Azure
     
 - ⚡ Fun fact: I take photos :camera:. I DJ :minidisc:. I love bikes :bicyclist: 
 
