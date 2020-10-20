@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi I'm Russ !
 
-<!--
-**russtelen/russtelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://russ.cmngsn.com">Portfolio</a> | 
+  <a href="https://russ.cmngsn.com">Resume</a> |
+  <a href="https://www.linkedin.com/in/russelltelen/">LinkedIn</a>
+</p>
+
+<br />
+
+ 🌱 I'm currently attending British Columbia Institute of Technology learning to make a difference in the world by creating applications :iphone: . 
+ 
+📫 You can reach me at russelltelen@gmail.com.
+
+- :computer: Web Technologies I've learned so far are:
+    - HTML
+    - CSS
+    - SASS
+    - Bootstrap
+    - JavaScript
+    - JQuery
+    - MySQL
+    - MongoDB
+    - Express
+    - NodeJS
+    - iOS With Swift
+
+- :books: Soon to acquire skills:
+    - .NET Framework
+    - ReactJS
+    - Angular
+    
+- ⚡ Fun fact: I take photos :camera_with_flash:. I DJ :minidisc:. I love bikes :bicyclist: 
+
+
+
