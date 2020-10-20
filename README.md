@@ -14,10 +14,6 @@
 📫 You can reach me at russelltelen@gmail.com.
 
 - :computer: Web Technologies I've learned so far are:
-    - HTML
-    - CSS
-    - SASS
-    - Bootstrap
     - JavaScript
     - JQuery
     - MySQL
