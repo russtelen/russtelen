@@ -1,8 +1,5 @@
-# Hi I'm Russ !
-
-Software developer
-
-
+<h2 align="center">Hi I'm Russ</h2>
+ <p align="center">Software developer</p>
 
 <p align="center">
   <a href="https://russ.cmngsn.com">Portfolio</a> | 
