@@ -9,7 +9,7 @@
 
 <br />
 
- 🌱 I'm currently attending British Columbia Institute of Technology learning to make a difference in the world by creating applications :iphone: . 
+ 🌱 I'm currently attending British Columbia Institute of Technology learning to make a difference in the world through the creation of applications :iphone: . 
  
 📫 You can reach me at russelltelen@gmail.com.
 
