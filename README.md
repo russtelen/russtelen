@@ -16,6 +16,7 @@
 - :computer: Technologies I've learned so far are:
     - HTML, CSS, Bootstrap, JavaScript, jQuery
     - MySQL and MongoDB
+    - Angular
     - Express
     - NodeJS
     - iOS With Swift
@@ -23,7 +24,6 @@
 - :books: Soon to acquire skills:
     - .NET Framework
     - ReactJS
-    - Angular
     - Amazon Web Services and Azure
     
 - ⚡ Fun fact: I take photos :camera:. I DJ :minidisc:. I love bikes :bicyclist: 
