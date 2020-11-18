@@ -17,13 +17,12 @@
     - HTML, CSS, Bootstrap, JavaScript, jQuery
     - MySQL and MongoDB
     - Angular
-    - Express
-    - NodeJS
+    - React
     - iOS With Swift
 
 - :books: Soon to acquire skills:
     - .NET Framework
-    - ReactJS
+    - MEAN / MERN Stack
     - Amazon Web Services and Azure
     
 - ⚡ Fun fact: I take photos :camera:. I DJ :minidisc:. I love bikes :bicyclist: 
