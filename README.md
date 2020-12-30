@@ -2,7 +2,7 @@
  <p align="center">Software developer</p>
 
 <p align="center">
-  <a href="https://russ.cmngsn.com">Portfolio</a> | 
+  <a href="https://russtelen.me/">Portfolio</a> | 
   <a href="https://russ.cmngsn.com">Resume</a> |
   <a href="https://www.linkedin.com/in/russelltelen/">LinkedIn</a>
 </p>
