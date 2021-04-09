@@ -13,17 +13,22 @@
  
 📫 You can reach me at russelltelen@gmail.com.
 
-- :computer: Technologies I've learned so far are:
-    - HTML, CSS, Bootstrap, JavaScript, jQuery
-    - MySQL and MongoDB
-    - Angular
-    - React
-    - iOS With Swift
+- :computer: Specializations:
 
-- :books: Soon to acquire skills:
-    - .NET Framework
-    - MEAN / MERN Stack
-    - Amazon Web Services and Azure
+Front End
+ - HTML, CSS, JavaScript, React, React Native
+
+Back End
+ - Express, ASP.NET, REST API, NodeJS
+
+Databases
+ - MongoDB, Mongoose, MySQL, DynamoDB
+
+Cloud Services
+ - AWS, Azure, Mongo Atlas
+
+Other Tools
+ - Netlify, Heroku, Github
     
 - ⚡ Fun fact: I take photos :camera:. I DJ :minidisc:. I love bikes :bicyclist: 
 
